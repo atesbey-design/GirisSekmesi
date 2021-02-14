@@ -1,1 +1,3 @@
 # GirisSekmesi
+Kullanıcıdan alınan ad ve şifre bilgisiyle giriş yap sekmesi yapımı...
+YOUTUBE=Yazılımcı Bey
